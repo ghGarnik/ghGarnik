@@ -1,4 +1,4 @@
-## I'm Garnik.
+### Hi there! I'm Garnik.
 
 - 🔭 I’m currently working on [FutureWorkshops](https://www.fws.io/).
 - 👨🏻‍🍳 Highlighted apps I worked on: [Nescafe Dolce Gusto](https://apps.apple.com/es/app/nescaf%C3%A9-dolce-gusto/id1396478745) and [ReadyRefresh AR](https://apps.apple.com/us/app/readyrefresh-3d-dispenser/id1500010640)
